@@ -193,7 +193,7 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="☑️ Add Mewtwo to your group",
+                            text="☑️ Add Vegeta to your group",
                             url="t.me/{}?startgroup=true".format(
                                 context.bot.username))
                     ],
@@ -208,16 +208,16 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="Pro Developer 😁😁",
-                             url="https://t.me/SWAMI_2_0_0_5")
+                             url="https://t.me/Vegeta_Kun")
                      ],
                      [
                          InlineKeyboardButton(
                              text="🗄 Source code",
-                             url="https://github.com/op-coder482/Soul-thunder-")
+                             url="https://github.com/Swami2600/Group-manager")
                      ]]))
     else:
         update.effective_message.reply_text(
-            "Heya mewtwo is awaken,I'm Online!😉😉\n<b>Haven't slept since:👀</b> <code>{}</code>"
+            "Heya Vegeta is awaken,I'm Online!😉😉\n<b>Haven't slept since:👀</b> <code>{}</code>"
             .format(uptime),
             parse_mode=ParseMode.HTML)
 
