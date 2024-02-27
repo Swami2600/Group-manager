@@ -75,7 +75,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-ROMEO_IMG = "https://telegra.ph/file/09cf038a2c726fd25ca22.jpg"
+ROMEO_IMG = "https://telegra.ph/file/cacbab414e32e8fbdd9c6.jpg"
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -203,7 +203,7 @@ def start(update: Update, context: CallbackContext):
                              url=f"https://t.me/mewtwo_bot1"),
                          InlineKeyboardButton(
                              text="Support Chat 🚑",
-                             url="https://t.me/mewtwo1_botsupport")
+                             url="https://t.me/Vegeta_Bot_Support")
                      ],
                      [
                          InlineKeyboardButton(
