@@ -1,15 +1,15 @@
-![Mewtwo](https://telegra.ph/file/09cf038a2c726fd25ca22.jpg)
+![Vegeta](https://telegra.ph/file/cacbab414e32e8fbdd9c6.jpg)
 
-# Mewtwo
+# Vegeta
 
-[![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/mewtwo1_botsupport)
+[![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/Vegeta_Bot_Support)
 
 
-A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Saitama suitable for Anime and Manga group chats. 
+A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Vegeta suitable for Anime and Manga group chats. 
 
-Can be found on telegram as [Mewtwo](https://t.me/mewtwo1_bot).
+Can be found on telegram as [Vegeta](http://t.me/YourVegetaBot).
 
-The Support group can be reached out to at [Mewtwo bot support](https://telegram.me/mewtwo1_botsupport), where you can ask for help about [Mewtwo](https://t.me/mewtwo1_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Vegeta bot support](https://telegram.me/Vegeta_Bot_Support), where you can ask for help about [Vegeta](http://t.me/YourVegetaBot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 ## How to setup/deploy.
 
@@ -29,7 +29,7 @@ REMEMBER: Turn on worker dyno (Don't worry It's free :D) & Webhook
 Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
 ```
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/op-coder482/Soul-thunder-.git)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Swami2600/Group-manager-.git)
 
 </details>  
 <details>
@@ -74,28 +74,28 @@ So just go and read the config sample file.
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/op-coder482/Soul-thunder-.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Swami2600/Group-manager-.git) 
 
 
 ## Credits
 The bot is based on the original work done by <b>[PaulSonOfLars](https://github.com/PaulSonOfLars)</b>
 All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
-<b>Fork Developer --></b> <b><i>[SWAMI](https://github.com/op-coder482)</i></b>
-or <b><i>[SWAMI](https://t.me/SWAMI_2_0_0_5)</i></b>
+<b>Fork Developer --></b> <b><i>[Vegeta](https://github.com/Swami2600)</i></b>
+or <b><i>[Vegeta](https://t.me/Vegeta_kun)</i></b>
 
 Also, missing proper credit for blacklistusers taken from TheRealPhoenixBot (will add it later, this note says unless it is done)
 
 Any other authorship/credits can be seen through the commits.
 
-Should any be missing kindly let us know at [Mewtwo bot support](https://t.me/mewtwo1_botsupport) or simply submit a pull request on the readme.
+Should any be missing kindly let us know at [Vegeta bot support](https://t.me/Vegeta_bot_support) or simply submit a pull request on the readme.
 
 ## Devlopement
-This repo is made by [Swami](https://t.me/Swami_2_0_0_5)
+This repo is made by [Vegeta](https://t.me/Vegeta_Kun)
 You can also get by searching on telegram search bar @swami_2_0_0_5
 
 ## Note 
 Don't ask us for help in forking and editing of repo in this case you will be banned from support group
 
 ## Assistance 
-This bot is assisted by [Black Panther](https://t.me/black_panther54
+No assistance please sleemp 
