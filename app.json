@@ -41,26 +41,26 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1078841825"
+         "value": "1710597756"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "SWAMI_2_0_0_5"
+         "value": "Vegeta_Kun"
       },
       "SUPPORT_CHAT": {
-         "description": "Your Telegram support group chat username where your users will go and bother you with shit. But be like: mewtwo1_botsupport. If this ever points to Mewtwo  support than consider you made an enemy.",
+         "description": "Your Telegram support group chat username where your users will go and bother you with shit. But be like: vegeta_bot_support. If this ever points to Vegeta support than consider you made an enemy.",
          "required": true,
-         "value": "Mewtwobotsupport"
+         "value": "Vegeta_Bot_Support"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-123456798"
+         "value": "-1002038666180"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-123456798"
+         "value": "--1002022260325"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
@@ -75,7 +75,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Mewtwo support then keep the current IDs here at they are and add yours.",
          "required": false,
-         "value": "1107922726"
+         "value": "1710597756"
       },
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
